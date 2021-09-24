@@ -43,5 +43,3 @@ class Solution:
         obj=solve()
         
         return obj.Solve(root)
-
-
